@@ -41,6 +41,9 @@ int main()
     c.set_fill_color(Color::red);
     Mark m {Point{100,300},'x'};
 
+    Ellipse e{Point(100,200),20,30};
+    e.set_fill_color(Color::blue);
+
     
     win.attach(ii);
     win.attach(c);
@@ -48,6 +51,7 @@ int main()
     win.attach(r);
     win.attach(t);
     win.attach(poly);
+    win.attach(e);
     win.attach(sine);
     win.attach(ya);
     win.attach(xa);
