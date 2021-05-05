@@ -1,0 +1,10 @@
+Apple;1;2.5
+Pear;2;3.5
+Watermelon;3;10.75
+Orange;4;2.3
+Cherry;5;1.2
+Banana;6;3.4
+Plum;7;1.8
+Peach;8;2.69
+Dragonfruit;9;6.9
+Lime;10;1.1
